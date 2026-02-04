@@ -69,23 +69,7 @@ Analytical Thinking & Insight Generation
 Successfully created a professional and interactive churn analysis dashboard that helps businesses monitor customer behavior, improve retention strategies, and make data-driven subscription decisions.
 
 📷 Dashboard Preview
-![image alt](
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image alt](https://github.com/GirijaHanchate/FUTURE_DS_02/blob/88c5d2ff991a3c8ef8fd59f711fd4189ea53787d/get_netflix_churn_dirty_dataset_Screenshort.png)
 
 
 👩‍💻 Author
